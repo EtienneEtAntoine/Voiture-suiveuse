@@ -1,0 +1,12 @@
+Recherches pour la fonction suiveuse du robot
+La voiture suit le bracelet attaché à la personnes
+  idée non réalisables : - gps (trop peu précis)
+                         - horloge interne commune à la voiture et au bracelet 
+                            (pourrait mal fonctionner car les horloges pourrait légèrement se dérégler)
+
+  idée retenue : faire la même chose qu'un cerveau qui sait d'où vient le son grâce à la puissance de celui ci
+  Le bracelet émet des ultrasons qui sont perçu à des puissances différentes sur les 3 "oreilles" de la voiture.
+  En fonction de la puissance du son sur chaque oreille, la voiture sait quelle direction prendre.
+  3 oreilles sont nécessaires pour une bonne spatialisation.
+  On peut mesurer la puissance du son avec un spectrogramme.
+                         
